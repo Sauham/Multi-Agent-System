@@ -29,8 +29,8 @@ This project is an **AI Use Case Generator** that automates market research, AI/
 ## 📌 Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ai_use_case_generator.git
-   cd ai_use_case_generator
+   https://github.com/Sauham/Multi-Agent-System.git
+   cd Multi-Agent-System
    ```
 
 2. **Install dependencies**:
